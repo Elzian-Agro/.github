@@ -4,12 +4,19 @@
   ## Elzian Agro
   **We are providing Agri-tech solutions for farmers and mass cultivators to monitor and automate their farmland.**
   
+  We work together to design, create and produce work that we are proud of for folks that we believe in.
+  We provide world-class service experiences to Agriculture Sector.
+  We are available for hire in a wide range of creative disciplines for a variety of jobs, projects and gigs.
+  
   Contact us <br/>
   :globe_with_meridians:[Elzian Agro Website](https://agro.elzian.com/) <br/>
   :e-mail: contact@elzian.com  <br/><br>
   [![linkedin](https://github.com/Elzian-Agro/.github/blob/Master/linkedin%20(3).png?raw=true)](https://lk.linkedin.com/company/elzianagro)
   [![Facebook](https://github.com/Elzian-Agro/.github/blob/Master/facebook.png?raw=true)](https://www.facebook.com/ELZIANAGRO)
   [![Instagram](https://github.com/Elzian-Agro/.github/blob/Master/instagram.png?raw=true)](https://www.instagram.com/elzian.agro/?utm_medium=copy_link)
+  
+
+  
 <!--
 
 **Here are some ideas to get you started:**
