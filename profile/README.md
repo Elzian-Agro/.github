@@ -2,7 +2,7 @@
 
 ![Image of Elzian Agro Logo](https://github.com/Elzian-Agro/.github/blob/Master/logo1.png?raw=true) <br>
   ## Elzian Agro
-  **We are providing Agri-tech solutions for farmers and mass cultivators to monitor and automate their farmland.**
+  **We are providing Agri-tech solutions for farmers and mass cultivators to monitor and automate their farmland.** :seedling:
   
   We work together to design, create and produce work that we are proud of for folks that we believe in.
   We provide world-class service experiences to Agriculture Sector.
