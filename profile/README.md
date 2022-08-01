@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-![Image of Elzian Agro Logo](https://github.com/Elzian-Agro/.github/blob/Master/logo.jpg?raw=true)
-  
+![Image of Elzian Agro Logo](https://github.com/Elzian-Agro/.github/blob/Master/logo1.png?raw=true) <br>
+  ## Elzian Agro
   **We are providing Agri-tech solutions for farmers and mass cultivators to monitor and automate their farmland.**
   
   Contact us <br/>
