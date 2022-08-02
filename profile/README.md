@@ -1,4 +1,6 @@
-<h2> Hi there 👋</h2>
+<!-- <h2> Hi there 👋</h2>
+-->
+<img src="https://images.pond5.com/smart-agriculture-smart-farming-hexagon-footage-081767039_prevstill.jpeg" height="325" width="100%" />
   <a href="#" target="blank"><img align="right" src="https://github.com/Elzian-Agro/.github/blob/Master/logo1.png?raw=true"  /></a>
   <br>
   <h2 align="center"> Elzian Agro </h2>
@@ -6,7 +8,7 @@
   
   We work together to design, create and produce work that we are proud of for folks that we believe in.
   We provide world-class service experiences to Agriculture Sector.
-  We are available for hire in a wide range of creative disciplines for a variety of jobs, projects and gigs.
+  We are available for hire in a wide range of creative disciplines for a variety of jobs, projects and gigs. :technologist::farmer::mechanic:
   
   <p align="center">
   Technologies we use </p> 
