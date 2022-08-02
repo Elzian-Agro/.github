@@ -1,7 +1,7 @@
 <!-- <h2> Hi there 👋</h2>
 -->
 <img src="https://waitana.co.id/wp-content/uploads/2020/10/smart_agriculture40.jpg" height="320" width="100%" />
-  <a href="https://agro.elzian.com/" target="blank"><img align="right" height="100" width="100" src="https://github.com/Elzian-Agro/.github/blob/Master/logo.jpg?raw=true"  /></a>
+  <a href="https://agro.elzian.com/" target="blank"><img align="right" width="100" src="https://github.com/Elzian-Agro/.github/blob/Master/logo.jpg?raw=true"  /></a>
   <br>
   <h2 align="center"> Elzian Agro </h2>
   <h4 align="center">We are providing Agri-tech solutions for farmers and mass cultivators to monitor and automate their farmland. :seedling: </h4>
