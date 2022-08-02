@@ -39,6 +39,8 @@
    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 <a href="https://www.hyperledger.org/use/fabric" target="_blank" rel="noreferrer"> <img src="https://github.com/Elzian-Agro/.github/blob/Master/download%20(1).png?raw=true" alt="Hyperledger fabric" width="50" height="40"/> </a>   
   <a href="https://colab.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Elzian-Agro/.github/blob/Master/download%20(2).png?raw=true" alt="colab" width="50" height="40"/> </a> 
+   <a href="https://docs.github.com/en/get-started" target="_blank" rel="noreferrer"> <img src="https://github.com/Elzian-Agro/.github/blob/Master/download.jpg?raw=true" alt="github" width="40" height="40"/> </a> 
+    <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Elzian-Agro/.github/blob/Master/download.png?raw=true" alt="jupyter" width="40" height="40"/> </a> 
 </p>
 
   
