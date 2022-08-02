@@ -1,6 +1,6 @@
 <!-- <h2> Hi there 👋</h2>
 -->
-<img src="https://images.pond5.com/smart-agriculture-smart-farming-hexagon-footage-081767039_prevstill.jpeg" height="325" width="100%" />
+<img src="https://github.com/Elzian-Agro/.github/blob/Master/istockphoto-935921674-640x640.jpg?raw=true" height="300" width="100%" />
   <a href="#" target="blank"><img align="right" src="https://github.com/Elzian-Agro/.github/blob/Master/logo1.png?raw=true"  /></a>
   <br>
   <h2 align="center"> Elzian Agro </h2>
