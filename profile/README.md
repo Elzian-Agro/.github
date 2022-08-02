@@ -13,13 +13,6 @@
   <p align="center">
   Technologies we use </p> 
   
-<!--    <p align="center"><img alt="html" src="https://github.com/Elzian-Agro/.github/blob/Master/html%20(1).png?raw=true"  />
-    <img alt="css" height="35" width="35" src="https://github.com/Elzian-Agro/.github/blob/Master/css%20(1).png?raw=true"  />
-    <img alt="javascript" src="https://github.com/Elzian-Agro/.github/blob/Master/javascript.png?raw=true"  />
-    <img alt="react" src="https://github.com/Elzian-Agro/.github/blob/Master/react.png?raw=true"  />
-    <img alt="dart" height="35" width="40" src="https://github.com/Elzian-Agro/.github/blob/Master/dart-logo-for-shares.png?raw=true" />
-    <img alt="jupyter" height="32" width="32" src="https://github.com/Elzian-Agro/.github/blob/Master/download.png?raw=true" />
-   </p>  -->
    
    <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
