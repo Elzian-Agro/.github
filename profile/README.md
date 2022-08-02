@@ -1,6 +1,6 @@
 <!-- <h2> Hi there 👋</h2>
 -->
-<img src="https://thumbs.dreamstime.com/b/vegetable-rows-pepper-grow-field-farming-agriculture-landscape-agricultural-land-banner-selective-focus-147015451.jpg" height="300" width="100%" />
+<img src="https://thumbs.dreamstime.com/b/vegetable-rows-pepper-grow-field-farming-agriculture-landscape-agricultural-land-banner-selective-focus-147015451.jpg" height="250" width="100%" />
   <a href="https://agro.elzian.com/" target="blank"><img align="right" width="100" src="https://github.com/Elzian-Agro/.github/blob/Master/logo.jpg?raw=true"  /></a>
   <br>
   <h2 align="center"> Elzian Agro </h2>
