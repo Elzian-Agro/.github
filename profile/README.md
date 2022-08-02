@@ -1,6 +1,6 @@
 <!-- <h2> Hi there 👋</h2>
 -->
-<img src="https://github.com/Elzian-Agro/.github/blob/Master/istockphoto-935921674-640x640.jpg?raw=true" height="300" width="100%" />
+<img src="https://waitana.co.id/wp-content/uploads/2020/10/smart_agriculture40.jpg" height="320" width="100%" />
   <a href="#" target="blank"><img align="right" src="https://github.com/Elzian-Agro/.github/blob/Master/logo1.png?raw=true"  /></a>
   <br>
   <h2 align="center"> Elzian Agro </h2>
