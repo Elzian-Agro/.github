@@ -1,14 +1,28 @@
 <!-- <h2> Hi there 👋</h2>
 -->
 <img src="https://github.com/Elzian-Agro/.github/blob/Master/agri.jpg?raw=true" alt="banner" height="250" width="100%" />
-  <a href="https://agro.elzian.com/" target="blank"><img align="right" width="100" src="https://github.com/Elzian-Agro/.github/blob/Master/logo.jpg?raw=true"  /></a>
   <br>
-  <h2 align="center"> Elzian Agro </h2>
-  <h4 align="center">We are providing Agri-tech solutions for farmers and mass cultivators to monitor and automate their farmland. :seedling: </h4>
-  
-  We work together to design, create and produce work that we are proud of for folks that we believe in.
+  <table>
+    <tr>
+      <td colspan=2>
+          <h1 align="left"> Elzian Agro </h2>
+          <h3 align="left">We are providing Agri-tech solutions for farmers and mass cultivators to monitor and automate their farmland. :seedling: </h4>
+      </td>
+      <td>
+        <a href="https://agro.elzian.com/" target="blank"><img align="right" width="100" src="https://github.com/Elzian-Agro/.github/blob/Master/logo.jpg?raw=true"  /></a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan=3 col>
+        We work together to design, create and produce work that we are proud of for folks that we believe in.
   We provide world-class service experiences to Agriculture Sector.
   We are available for hire in a wide range of creative disciplines for a variety of jobs, projects and gigs. :technologist::farmer::mechanic:
+        </td>
+    </tr>
+  </table>
+
+  
+
   
   <p align="center">
   Technologies we use </p> 
